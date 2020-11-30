@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Nice meeting you, I'm [Mir Abidujjaman Ovi](https://guruapps.web.app/)
+## Nice meeting you, I'm [Mir Abidujjaman Ovi](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gurupreet&label=Views&color=blue&style=plastic" alt="gurupreet" /> </p>
 
