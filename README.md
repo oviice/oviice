@@ -2,8 +2,6 @@
 
 ## Nice meeting you, I'm [Mir Abidujjaman Ovi](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gurupreet&label=Views&color=blue&style=plastic" alt="gurupreet" /> </p>
-
 <a href="https://twitter.com/oviice13">
   <img align="left" alt="
   Ovi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
