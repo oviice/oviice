@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Nice meeting you, I'm [Mir Abidujjaman Ovi](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arikbncc@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arik1155001/)
-<img src="https://komarev.com/ghpvc/?username=arik096&label=Profile%20views&color=brightgreen&style=flat" alt="arik" /> </p>
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oviice@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1DA1F2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
+<img src="https://komarev.com/ghpvc/?username=oviice&label=Profile%20views&color=brightgreen&style=flat" alt="Ovi" /> </p>
 <a href="https://twitter.com/oviice13">
   <img align="left" alt="
   Ovi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
