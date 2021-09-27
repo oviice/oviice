@@ -17,7 +17,7 @@
 
 <br/>
 <br/>
-
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@oviice&v=2&layout=compact)
 
 
 - 🔭 I’m currently working at [iSocial](https://isocial.com.bd/).
