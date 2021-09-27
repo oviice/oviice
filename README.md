@@ -17,7 +17,7 @@
 
 <br/>
 <br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@oviice&v=2&layout=compact)
+
 
 
 - 🔭 I’m currently working at [iSocial](https://isocial.com.bd/).
@@ -36,6 +36,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviice&count_private=true&show_icons=true&theme=dark)
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oviice&layout=compact&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@oviice&v=2&layout=compact)
 <div align="center">
   
   
