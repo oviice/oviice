@@ -16,6 +16,7 @@
 </a>
 
 <br/>
+<a href="https://app.daily.dev/oviice22"><img align="right"src="https://api.daily.dev/devcards/a6c17267938c40169a32624ab0c28f93.png?r=479" width="200" alt="Mir Abidujjaman Ovi's Dev Card"/></a>
 <br/>
 
 
