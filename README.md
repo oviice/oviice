@@ -26,7 +26,6 @@
 - 💬 Ask me about Android in general.
 - 📫 How to reach me: [Linkedin - @_Ovi](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If I am not coding then I am playing PUBG or watching movie
 
 **Languages and Tools:**  
 
