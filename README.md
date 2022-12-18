@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working at [iSocial](https://isocial.com.bd/).
+- 🔭 I’m currently working at [Computer Ease Ltd](https://www.celimited.com/).
 - 🌱 I’m currently learning more about Android development(Forever),Python, React.js.
 - 💬 Ask me about Android in general.
 - 📫 How to reach me: [Linkedin - @_Ovi](https://www.linkedin.com/in/mir-abidujjaman-ovi/)
